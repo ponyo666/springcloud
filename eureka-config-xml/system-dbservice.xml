@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="gbk"?>
+<server>
+
+ <jdbc-driver type="myoracle">
+   <driver-url>jdbc:oracle:thin:@168.192.112.207:1521:orcl</driver-url>
+    <driver-class>oracle.jdbc.driver.OracleDriver</driver-class>
+    <user>dd</user>
+    <password>myoracle</password>
+  
+</server>
