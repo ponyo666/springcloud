@@ -6,5 +6,6 @@
     <driver-class>oracle.jdbc.driver.OracleDriver</driver-class>
     <user>dd</user>
     <password>myoracle</password>
-  
+    <decodecfg>false</decodecfg>
+  </jdbc-driver>
 </server>
