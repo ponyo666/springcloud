@@ -3,10 +3,10 @@ server：
         alias：ssk
         driver-url:jdbc:oracle:thin:@168.198.77.111:1521:orcl
         driver-class:oracle.jdbc.driver.OracleDriver
-        driver-properties:
-            property:
+        driver-properties: 
+            property: 
                 name:user
                 value:dd
-            property:
+            property: 
                 name:password
                 value:dd
