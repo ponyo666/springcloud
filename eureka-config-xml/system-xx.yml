@@ -1,0 +1,9 @@
+server：
+    proxool：
+        alias：ssk
+        driver-url:jdbc:oracle:thin:@168.198.77.111:1521:orcl
+        driver-class:oracle.jdbc.driver.OracleDriver
+        driver-properties:
+            property:
+                user:dd
+                password:dd
